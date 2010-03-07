@@ -1,0 +1,10 @@
+This is a starting stub for the Prime Factors Kata by Uncle Bob Martin.
+
+System Requirements:
+* Ruby
+* Rubygems
+* RSpec
+
+To Run the tests/specs:
+
+    $spec spec

@@ -7,4 +7,6 @@ describe PrimeFactors do
     PrimeFactors.of(0).should == []
   end
 
+  
+
 end
